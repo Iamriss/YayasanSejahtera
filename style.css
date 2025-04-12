@@ -1,0 +1,70 @@
+.navbar-brand {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.nav-item a {
+  font-weight: 600;
+  font-size: 26px;
+  margin: 40px;
+}
+
+.img-fluid {
+  width: 200px;
+  margin-bottom: -200px;
+}
+
+.jumbotron {
+  padding-top: 400px;
+  background: linear-gradient(
+      to bottom,
+      rgba(92, 77, 66, 0.8) 0%,
+      rgba(92, 77, 66, 0.8) 100%
+    ),
+    url("./Asset/ykcs\ foto\ bersama.jpg");
+  background-size: cover;
+  height: 1300px;
+  text-align: center;
+}
+
+.jumbotron .display {
+  color: #ffffff;
+}
+
+.jumbotron h1 {
+  font-weight: bolder;
+  font-size: 70px;
+}
+
+.jumbotron p {
+  color: #fff;
+  font-weight: 600;
+  font-size: 35px;
+}
+
+.jumbotron .display-4 {
+  color: #fff;
+  margin-top: 200px;
+}
+
+.jumbotron hr {
+  border-color: aqua;
+  border-width: 4px;
+}
+
+.carousel-item {
+  width: 100%;
+  background-size: cover;
+}
+
+.carousel-control-prev-icon {
+  background-color: rgba(7, 7, 255, 0.979);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.carousel-control-next-icon {
+  background-color: rgba(7, 7, 255, 0.979);
+  padding: 10px;
+  border-radius: 10px;
+}
